@@ -1,5 +1,8 @@
-This project is a dynamic React.js application that allows users to change the background color of the screen by selecting from a palette of colors.
-With smooth transitions and a user-friendly interface, it offers a fun and interactive way to explore color combinations.
-At the bottom there is a bar displaying all possible color options for changing background.
-🔗 Live Demo (https://backgroundthemechanger.netlify.app/)
+# React + Vite
 
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
